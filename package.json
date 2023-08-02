@@ -1,0 +1,15 @@
+{
+  "name": "hagb4rd.github.io",
+  "version": "1.0.0",
+  "description": "homepage",
+  "main": "index.html",
+  "repository": "https://github.com/hagb4rd/hagb4rd.github.io.git",
+  "publishConfig": {
+	"registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hagb4rd",
+  "license": "MIT"
+}
